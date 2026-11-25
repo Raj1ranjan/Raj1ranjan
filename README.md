@@ -1,62 +1,86 @@
 # Raj Ranjan
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:151525,50:35265E,100:7564C9&height=180&section=header&text=RAJ%20RANJAN&fontSize=48&fontColor=EAE6FF&fontAlignY=40&desc=BUILDING%20BEYOND%20THE%20ORDINARY&descAlignY=62&descSize=14" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B2E,50:7AA2F7,100:BB9AF7&height=190&section=header&text=Building%20Things%20That%20Matter&fontSize=30&fontColor=C0CAF5&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
 <p align="center">
-  Computer Science Student | Developer | Technology Enthusiast
+  <strong>Computer Science Student · Developer · Technology Enthusiast</strong>
+  <br/>
+  Exploring the intersection of software, AI, computer vision, and systems.
 </p>
 
 <p align="center">
-  <i>Curiosity drives discovery. Building turns ideas into reality.</i>
+  <a href="https://github.com/Raj1ranjan">GitHub</a> ·
+  <a href="https://github.com/Raj1ranjan?tab=repositories">Repositories</a>
 </p>
 
 ---
 
-## About Me
+## About
 
-I'm Raj, a computer science student interested in understanding technology from the inside out.
+I'm a Computer Science student interested in understanding how technology works beneath the surface — and building useful things with it.
 
-I enjoy experimenting with software, exploring Linux, building AI-powered applications and researching computational photography.
+My interests include:
 
-## Areas of Interest
+- Artificial intelligence and local-first software
+- Computational photography and computer vision
+- Android development and image processing
+- Linux, open source, and system-level experimentation
+- Practical software engineering
 
-- Artificial Intelligence & Local AI
-- Computational Photography & Computer Vision
-- Android Development
-- Linux & Open Source
-- Embedded Systems
-- Software Engineering
+## Featured work
 
-## Projects
+### Nokia Camera Lab
+**Android · Kotlin · Computational Photography**
 
-| Project | Focus |
-|---|---|
-| LocalMind AI | Offline, privacy-first AI assistant |
-| Sentri | AI assistant experimentation |
-| Nokia Camera Lab | Experimental Android camera development |
-| Kumo | Personal AI assistant |
+An experimental camera application for the Nokia 6, exploring a Pixel-inspired photography experience.
 
-## Technologies
+- Camera2 API integration
+- JPEG and DNG capture
+- RAW image processing experiments
+- Multi-frame alignment and noise reduction research
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,java,linux,fedora,git,github,vscode,android" />
-</p>
+*Currently evolving alongside a separate RAW-processing research pipeline.*
 
-## Current Focus
+### LocalMind AI
+**Python · Local AI · Document Intelligence**
 
-- Exploring RAW image processing and computational photography.
-- Building practical software projects.
-- Experimenting with local AI systems.
-- Learning embedded hardware development.
+A privacy-first local AI assistant exploring memory-based learning and document compression.
+
+[Explore repository →](https://github.com/Raj1ranjan/LocalMind-ai)
+
+### Kumo
+**Local AI · Personal Assistant**
+
+An ongoing project exploring a locally run personal AI assistant.
+
+[Explore repository →](https://github.com/Raj1ranjan/Kumo)
 
 ---
 
+## Technology
+
 <p align="center">
-  <i>Experiment · Engineer · Evolve</i>
+  <img src="https://skillicons.dev/icons?i=python,kotlin,java,linux,fedora,git,github,vscode,android&theme=dark" />
+</p>
+
+## Current focus
+
+- Improving RAW image alignment and multi-frame denoising
+- Exploring computational photography techniques
+- Building practical local AI tools
+- Developing Android applications
+- Learning through experimentation and open-source work
+
+---
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj1ranjan&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7564C9,100:151525&height=100&section=footer" width="100%" />
+  <sub>Experiment · Engineer · Evolve</sub>
 </p>
