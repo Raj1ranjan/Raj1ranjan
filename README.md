@@ -1,103 +1,80 @@
-<!--
-  PLAYER PROFILE: RAJ RANJAN
-  THEME: RETRO JAPANESE RPG / 16-BIT TOKYO
--->
+# STUDIO / RANJAN
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090B1A,35:24204A,70:6D4AFF,100:FF5C9A&height=200&section=header&text=RAJ%20RANJAN&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DEVELOPER%20%7C%20EXPLORER%20%7C%20BUILDER&descAlignY=60&descSize=13" width="100%" />
-</p>
+### Engineering through curiosity.
 
-<p align="center">
-  <code>✦ PLAYER 001 ✦</code>
-  <br/>
-  <b>WELCOME TO MY LITTLE CORNER OF THE INTERNET</b>
-  <br/>
-  <sub>Loading world... [██████████] 100%</sub>
-</p>
+I'm a Computer Science student interested in understanding how technology works — and exploring what I can build with it.
+
+My work and experiments sit around software engineering, computational photography, artificial intelligence, and Linux.
 
 ---
 
-## ▸ PLAYER PROFILE
+## Selected Work
 
-```text
-╔══════════════════════════════════╗
-║          PLAYER STATUS           ║
-╠══════════════════════════════════╣
-║  Name       : Raj Ranjan          ║
-║  Class      : Computer Scientist  ║
-║  Location   : India               ║
-║  Alignment  : Creative / Curious  ║
-║  Status     : Currently Building  ║
-╚══════════════════════════════════╝
-```
+### 01 — Nokia Camera Lab
+*Android · Kotlin · Camera2 · Computational Photography*
 
-A Computer Science student exploring the world of software, AI, photography and systems.
+An experimental camera application for the Nokia 6, exploring manual camera controls, JPEG and RAW capture, and a more computational approach to mobile photography.
 
-I enjoy taking things apart, understanding how they work, and building something of my own.
+Currently exploring multi-frame alignment, image fusion, and noise reduction.
 
-## ▸ INVENTORY / TECH
+**Status:** Active development · Local project
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,java,linux,fedora,git,github,vscode,android&theme=dark" />
-</p>
+### 02 — Kumo
+*Local AI · Personal Assistant*
 
-## ▸ QUEST LOG
+An exploration of personal AI assistants, with an interest in local execution, useful memory, and greater user control.
 
-<details open>
-<summary><b>★ MAIN QUEST — Computational Photography</b></summary>
+[View repository ↗](https://github.com/Raj1ranjan/Kumo)
 
-**Nokia Camera Lab**
+### 03 — LocalMind AI
+*Python · Local AI*
 
-An experimental Android camera project exploring the Nokia 6's camera hardware.
+Exploring privacy-conscious AI tools and practical local workflows.
 
-- Camera2 API
-- JPEG and DNG capture
+[View repository ↗](https://github.com/Raj1ranjan/LocalMind-ai)
+
+---
+
+## Research & Experiments
+
+A space for investigating ideas beyond conventional application development.
+
+- Computational photography
 - RAW image processing
-- Multi-frame alignment
-- Noise reduction experiments
+- Multi-frame image alignment
+- Image denoising and signal quality
+- Local AI systems
 
-</details>
+---
 
-<details>
-<summary><b>★ SIDE QUEST — Local Intelligence</b></summary>
+## Technology
 
-**Kumo**
+**Languages**
 
-Building a local AI assistant and exploring the possibilities of personal, locally run intelligence.
+Python · Kotlin · Java
 
-[Explore Kumo →](https://github.com/Raj1ranjan/Kumo)
+**Platforms**
 
-</details>
+Linux · Fedora · Android
 
-<details>
-<summary><b>★ SIDE QUEST — Local AI Tools</b></summary>
+**Tools**
 
-**LocalMind AI**
+Git · GitHub · VS Code · Gradle
 
-Exploring privacy-first AI tools and local workflows.
+---
 
-[Explore LocalMind AI →](https://github.com/Raj1ranjan/LocalMind-ai)
+## Currently Exploring
 
-</details>
+- Improving RAW processing and image fusion
+- Understanding computational photography algorithms
+- Building practical Android applications
+- Experimenting with local AI systems
+- Learning more about operating systems and software engineering
 
-## ▸ CURRENT MISSIONS
-
-- [ ] Improve RAW image processing
-- [ ] Explore multi-frame computational photography
-- [ ] Build useful Android applications
-- [ ] Experiment with local AI
-- [ ] Learn more about Linux and systems
-
-## ▸ WORLD MAP
+---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj1ranjan&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
-<p align="center">
-  <code>THANK YOU FOR VISITING!</code>
+  <sub>STUDIO / RANJAN</sub>
   <br/>
-  <sub>ゲームを続けよう — Keep playing.</sub>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5C9A,50:6D4AFF,100:090B1A&height=100&section=footer" width="100%" />
+  <sub>Experiment. Understand. Build.</sub>
 </p>
